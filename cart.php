@@ -35,6 +35,7 @@ if (!empty($_SESSION['product'])) {
 			<td></td>
 		</tr>
 	</table>
+	
 <?php
 } else {
 ?>
