@@ -3,7 +3,7 @@
   $user = 'root';
   $password = '';
   // 利用するデータベース
-  $dbName = 'webbanhang';
+  $dbName = 'shop';
   // MySQLサーバ
   $host = 'localhost';
   // MySQLのDSN文字列
